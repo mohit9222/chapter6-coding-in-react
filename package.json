@@ -1,0 +1,34 @@
+{
+  "name": "reactlearning",
+  "version": "1.0.0",
+  "description": "This is React Learning",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit9222/ReactLearning.git"
+  },
+  "keywords": [],
+  "author": "Mohit R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit9222/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/mohit9222/ReactLearning#readme",
+  "devDependencies": {
+    "cosmiconfig": "^8.2.0",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
